@@ -1,3 +1,3 @@
 ##notes
-1 data
-2 science
+1. data
+2. science
