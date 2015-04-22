@@ -1,2 +1,2 @@
 # newrepository
-new
+* new
